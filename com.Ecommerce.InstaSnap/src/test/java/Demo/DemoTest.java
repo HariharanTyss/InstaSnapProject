@@ -22,6 +22,6 @@ public class DemoTest {
 		// Navigate to the Application
 		driver.get("https://www.selenium.dev/");
 
-
+;
 	}
 }
